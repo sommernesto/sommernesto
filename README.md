@@ -1,6 +1,6 @@
 # Sommer Vargas
 
-**Solutions & AI/Automation Engineer** · Madrid, Spain · [LinkedIn](https://www.linkedin.com/in/sommer-vargas/) · [sommervargas@hotmail.com](mailto:sommervargas@hotmail.com)
+**Solutions & AI/Automation Engineer** · Madrid, Spain · [LinkedIn](https://www.linkedin.com/in/sommer-vargas/) · [sommervargas@hotmail.com](mailto:sommerevargas@hotmail.com)
 
 Mechanical engineering background pivoting into data, AI, and automation systems. I build end-to-end pipelines, multi-agent workflows, and ML models — from raw data to deployed solutions. Currently targeting **Solutions Engineer**, **Data Analyst**, and **AI/Automation Engineer** roles across EMEA.
 
