@@ -8,8 +8,12 @@ Mechanical engineering background pivoting into data, AI, and automation systems
 
 ## Featured Projects
 
-### 🤖 [n8n AI Automation Infrastructure](https://github.com/sommernesto/n8n-ai-infrastructure) *(in progress)*
-Self-hosted multi-agent system running on M2 Mac Mini — automated email triage, morning briefings, and job application tracking via Claude API + n8n orchestration.  
+### 🖥️ OpenClaw AI Infrastructure
+Production multi-tenant AI agent infrastructure on self-hosted hardware (M2 Mac Mini, Madrid). Five isolated environments for a private client, each with dedicated Docker container, Tailscale sidecar networking, Slack bot, and Google Drive integration. Zero public port exposure. Currently live with monthly retainer.  
+`Docker` `Docker Compose` `Tailscale` `OrbStack` `Node.js` `Claude API` `Slack API` `Google Cloud OAuth 2.0` `Bash`
+
+### 🤖 [n8n AI Automation Infrastructure](https://github.com/sommernesto/n8n-ai-infrastructure)
+Self-hosted multi-agent system — automated email triage, morning briefings, and job application tracking via Claude API + n8n orchestration.  
 `n8n` `Claude API` `Gemini` `Python` `Docker` `Google Sheets`
 
 ### ☀️ [GreenGrid Predictor](https://github.com/sommernesto/GreenGrid-Predictor)
