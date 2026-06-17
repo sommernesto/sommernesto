@@ -8,12 +8,8 @@ Mechanical engineering background pivoting into data, AI, and automation systems
 
 ## Featured Projects
 
-### 🖥️ OpenClaw AI Infrastructure
-Production multi-tenant AI agent infrastructure on self-hosted hardware (M2 Mac Mini, Madrid). Five isolated environments for a private client, each with dedicated Docker container, Tailscale sidecar networking, Slack bot, and Google Drive integration. Zero public port exposure. Currently live with monthly retainer.  
-`Docker` `Docker Compose` `Tailscale` `OrbStack` `Node.js` `Claude API` `Slack API` `Google Cloud OAuth 2.0` `Bash`
-
-### 🤖 [n8n AI Automation Infrastructure](https://github.com/sommernesto/n8n-ai-infrastructure)
-Self-hosted multi-agent system — automated email triage, morning briefings, and job application tracking via Claude API + n8n orchestration.  
+### 🤖 [n8n AI Automation Infrastructure](https://github.com/sommernesto/n8n-ai-infrastructure) *(in progress)*
+Self-hosted multi-agent system running on M4 Mac Mini — automated email triage, morning briefings, and job application tracking via Claude API + n8n orchestration.  
 `n8n` `Claude API` `Gemini` `Python` `Docker` `Google Sheets`
 
 ### ☀️ [GreenGrid Predictor](https://github.com/sommernesto/GreenGrid-Predictor)
@@ -45,7 +41,7 @@ Ensemble ML model trained on 3M+ NYC taxi trips. **R² 0.892**, Kaggle Top 15%. 
 
 ## Certifications
 
-- 📊 Google Advanced Data Analytics Professional *(in progress)*
+- 📊 Google Advanced Data Analytics Professional
 - 📊 Google Data Analytics Professional
 - 🐍 IBM Python for Data Science, AI & Development
 - 🤖 Anthropic — 17 courses: Claude API · MCP (Intro + Advanced) · Amazon Bedrock · Google Cloud Vertex AI · Claude Code · Subagents
